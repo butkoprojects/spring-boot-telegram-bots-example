@@ -1,0 +1,13 @@
+target/
+build/
+out/
+.gradle
+.apt_generated
+.project
+.settings
+.classpath
+.factorypath
+.idea
+*.iws
+*.iml
+*.ipr
